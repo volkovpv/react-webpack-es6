@@ -1,0 +1,19 @@
+{
+  "name": "react-webpack-es6.zz",
+  "version": "0.0.0",
+  "description": "challenge react&webpack&es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovpv/react-webpack-es6.git"
+  },
+  "author": "volkov_p_v",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volkovpv/react-webpack-es6/issues"
+  },
+  "homepage": "https://github.com/volkovpv/react-webpack-es6#readme"
+}
