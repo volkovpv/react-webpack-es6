@@ -2,8 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 class World extends React.Component {
+    componentDidMount(){
+        console.log('Привет мир!!!')
+    }
+
     render() {
-        return <h1>World</h1>
+        return <h1>Wow World</h1>
     }
 }
 
