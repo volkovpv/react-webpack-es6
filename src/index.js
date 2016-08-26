@@ -1,16 +1,10 @@
-/**
- * Created by https://github.com/volkovpv on 08.2016.
- */
-
-'use strict';
-
 import React from 'react';
+import ReactDOM from 'react-dom';
 
-const kkkk = 'lll';
-
-if(NODE_ENV === 'development'){
-    let privatess = true;
-    let privatessss = false;
-    var kkkkss = 'kkkk';
-    console.log(NODE_ENV);
+class World extends React.Component {
+    render() {
+        return <h1>World</h1>
+    }
 }
+
+ReactDOM.render(<World/>, document.getElementById('world'));
